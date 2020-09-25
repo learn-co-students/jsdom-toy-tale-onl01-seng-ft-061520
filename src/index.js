@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	    toyFormContainer.addEventListener("submit", (event) => {
 		event.preventDefault();
 		createNewToy(event.target);
+		toyFormContainer.style.display = "none";
 	    });
 	} else {
 	    toyFormContainer.style.display = "none";
