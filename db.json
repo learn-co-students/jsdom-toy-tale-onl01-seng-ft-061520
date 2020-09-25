@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 82
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 32
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 8
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 3
     },
     {
       "id": 6,
@@ -46,7 +46,55 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 4
+    },
+    {
+      "name": "The Prospector",
+      "image": "https://vignette.wikia.nocookie.net/toystory72/images/1/1f/The_Prospector.png/revision/latest/top-crop/width/360/height/450?cb=20190805223711",
+      "likes": 3,
+      "id": 9
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 2,
+      "id": 11
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 1,
+      "id": 12
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Speak and Spell",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/0/0a/Mr_Spell.png/revision/latest?cb=20200419213222",
+      "likes": 1,
+      "id": 14
+    },
+    {
+      "name": "Speak and Spell",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/0/0a/Mr_Spell.png/revision/latest?cb=20200419213222",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Army Men",
+      "image": "https://www.khwiki.com/images/f/fe/Green_Army_Men_KHIII.png",
+      "likes": 7,
+      "id": 16
     }
   ]
 }
